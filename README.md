@@ -2,7 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-A great resume highlights ownership and quantifiable impact, using strong action verbs to show your contributions.
+Keep descriptions concise: focus on the problem, your action, and the quantitative business result.
+
+*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
 
 <!-- THOUGHT_END -->
 
