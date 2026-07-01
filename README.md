@@ -8,7 +8,6 @@ Keep descriptions concise: focus on the problem, your action, and the quantitati
 
 <!-- THOUGHT_END -->
 
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
