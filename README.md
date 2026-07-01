@@ -1,3 +1,11 @@
+<!-- THOUGHT_START -->
+
+## 💡 Technical Thought of the Day
+
+A great resume highlights ownership and quantifiable impact, using strong action verbs to show your contributions.
+
+<!-- THOUGHT_END -->
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
