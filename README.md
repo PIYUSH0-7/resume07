@@ -4,7 +4,7 @@
 
 Keep descriptions concise: focus on the problem, your action, and the quantitative business result.
 
-*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
