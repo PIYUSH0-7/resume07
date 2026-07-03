@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Your resume is a strategic document, meticulously engineered to distil your unique value proposition into quantifiable achievements and impactful contributions, tailored precisely for your target role.
+Keep descriptions concise: focus on the problem, your action, and the quantitative business result.
 
-*Daily Insight:* For every bullet point on your resume, ask yourself: "What problem did I solve, what action did I take, and what was the quantifiable result?"
+*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
 
 <!-- THOUGHT_END -->
 
