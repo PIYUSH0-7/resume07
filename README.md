@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Keep descriptions concise: focus on the problem, your action, and the quantitative business result.
+A great resume highlights ownership and quantifiable impact, using strong action verbs to show your contributions.
 
-*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 
