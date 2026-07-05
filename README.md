@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-A great resume highlights ownership and quantifiable impact, using strong action verbs to show your contributions.
+Keep descriptions concise: focus on the problem, your action, and the quantitative business result.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
