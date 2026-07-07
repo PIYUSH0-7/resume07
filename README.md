@@ -4,7 +4,7 @@
 
 A great resume highlights ownership and quantifiable impact, using strong action verbs to show your contributions.
 
-*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
