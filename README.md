@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Tailor your resume for the role you want, emphasizing relevant systems and technologies you've mastered.
+Keep descriptions concise: focus on the problem, your action, and the quantitative business result.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 
