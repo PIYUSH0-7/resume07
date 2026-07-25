@@ -4,7 +4,7 @@
 
 Tailor your resume for the role you want, emphasizing relevant systems and technologies you've mastered.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
 
 <!-- THOUGHT_END -->
 
