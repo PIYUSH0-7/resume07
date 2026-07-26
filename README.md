@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Tailor your resume for the role you want, emphasizing relevant systems and technologies you've mastered.
+Keep descriptions concise: focus on the problem, your action, and the quantitative business result.
 
-*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
+*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 
 <!-- THOUGHT_END -->
 
