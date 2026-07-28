@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Tailor your resume for the role you want, emphasizing relevant systems and technologies you've mastered.
+A great resume highlights ownership and quantifiable impact, using strong action verbs to show your contributions.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
 <!-- THOUGHT_END -->
 
