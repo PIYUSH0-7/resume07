@@ -2,7 +2,7 @@
 
 ## 💡 Technical Thought of the Day
 
-A great resume highlights ownership and quantifiable impact, using strong action verbs to show your contributions.
+Tailor your resume for the role you want, emphasizing relevant systems and technologies you've mastered.
 
 *Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
