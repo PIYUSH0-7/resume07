@@ -2,7 +2,7 @@
 
 ## 💡 Technical Thought of the Day
 
-Tailor your resume for the role you want, emphasizing relevant systems and technologies you've mastered.
+Keep descriptions concise: focus on the problem, your action, and the quantitative business result.
 
 *Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
