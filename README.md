@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Keep descriptions concise: focus on the problem, your action, and the quantitative business result.
+Tailor your resume for the role you want, emphasizing relevant systems and technologies you've mastered.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 
 <!-- THOUGHT_END -->
 
